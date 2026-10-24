@@ -2,7 +2,7 @@
 @section('titulo', 'Productos')
 @section('contenido')
 <div class="d-flex justify-content-between mb-3">
-    <h4>Productos y Accesorios</h4>
+    <h4>Productos y Accesorios y más</h4>
     <a href="{{ route('productos.create') }}" class="btn btn-primary">+ Nuevo Producto</a>
 </div>
 
