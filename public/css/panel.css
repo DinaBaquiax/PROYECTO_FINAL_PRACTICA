@@ -1,0 +1,4 @@
+.sidebar{--bs-offcanvas-width:250px;flex:0 0 250px;display:flex;flex-direction:column;
+         background:#0f3a40 !important;color:#fff;min-height:100vh;min-height:100dvh}
+.sidebar a{display:block;padding:.6rem 1rem;color:#cfe3e6;text-decoration:none}
+.sidebar a:hover,.sidebar a.active{background:rgba(255,255,255,.12);color:#fff}
